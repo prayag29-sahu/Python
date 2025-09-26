@@ -4,6 +4,7 @@ print(type(a))
 
 name = "Prayag"
 print(name)
+print(type(name))
 
 b=2.6
 print(b)
