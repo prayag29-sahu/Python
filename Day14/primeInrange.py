@@ -14,3 +14,4 @@ for i in range(a,b+1):
                 break
     if prime:
         print(i)
+
