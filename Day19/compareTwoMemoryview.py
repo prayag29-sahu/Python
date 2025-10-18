@@ -1,0 +1,5 @@
+a = bytearray(b'hello')
+b = bytearray(b'hello')
+mv1 = memoryview(a)
+mv2 = memoryview(b)
+print(mv1 == mv2)
