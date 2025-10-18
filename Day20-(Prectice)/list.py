@@ -7,3 +7,6 @@ print(fruits[1])  # banana
 
 # append element
 fruits.append("orange")
+
+# insert element
+fruits.insert(1, "grape")
