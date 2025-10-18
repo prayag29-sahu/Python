@@ -13,3 +13,6 @@ fruits.insert(1, "grape")
 
 # remove element
 fruits.remove("mango")
+
+# pop element
+popped_fruit = fruits.pop()  # removes last element
