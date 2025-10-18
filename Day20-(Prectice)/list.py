@@ -10,3 +10,6 @@ fruits.append("orange")
 
 # insert element
 fruits.insert(1, "grape")
+
+# remove element
+fruits.remove("mango")
