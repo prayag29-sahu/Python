@@ -16,3 +16,6 @@ fruits.remove("mango")
 
 # pop element
 popped_fruit = fruits.pop()  # removes last element
+
+# slicing
+print(fruits[1:3])  # gets elements from index 1 to
