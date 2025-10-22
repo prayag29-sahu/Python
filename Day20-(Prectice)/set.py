@@ -8,3 +8,5 @@ print({1, 2}.issubset({1, 2, 3}))
 print({1, 2, 3}.issuperset({2, 3}))
 s.clear()
 f = frozenset([1, 2, 3])
+# f.add(4)  #  AttributeError
+print(f)
