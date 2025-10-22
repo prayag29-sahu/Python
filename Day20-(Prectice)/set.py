@@ -10,3 +10,4 @@ s.clear()
 f = frozenset([1, 2, 3])
 # f.add(4)  #  AttributeError
 print(f)
+f.remove(2)  # AttributeError
