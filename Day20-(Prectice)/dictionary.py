@@ -8,3 +8,5 @@ print(d.items())
 d.pop("age")
 for k, v in d.items():
     print(k, v)
+
+squareDict = {x: x*x for x in range(5)}
