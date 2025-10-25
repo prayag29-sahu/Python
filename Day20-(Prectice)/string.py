@@ -8,3 +8,5 @@ print("-".join(["a", "b", "c"]))
 print("hello world".replace("world", "Python"))
 print("banana".count("a"))
 print("hello".find("e"))
+name = "Prayag"
+print(f"My name is {name}")
