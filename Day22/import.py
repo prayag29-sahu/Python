@@ -3,10 +3,10 @@ import calculator
 print(calculator.a)
 print(calculator.b)
 
-calculator.add(20, 30)
-calculator.sub(50, 15)
-calculator.prod(6, 7)
-calculator.div(45, 9)
-calculator.power(2, 3)
+print(calculator.add(20, 30))
+print(calculator.sub(50, 15))
+print(calculator.prod(6, 7))
+print(calculator.div(45, 9))
+print(calculator.power(2, 3))
 print(calculator.root(4,2))
 
