@@ -5,3 +5,4 @@ print(calculator.b)
 
 calculator.add(20, 30)
 calculator.sub(50, 15)
+calculator.prod(6, 7)
