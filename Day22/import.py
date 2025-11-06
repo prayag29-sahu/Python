@@ -8,5 +8,5 @@ calculator.sub(50, 15)
 calculator.prod(6, 7)
 calculator.div(45, 9)
 calculator.power(2, 3)
-
+print(calculator.root(4,2))
 
