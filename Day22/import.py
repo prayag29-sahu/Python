@@ -10,3 +10,4 @@ print(calculator.div(45, 9))
 print(calculator.power(2, 3))
 print(calculator.root(4,2))
 print(calculator.mod(29, 5))
+
