@@ -38,3 +38,7 @@ print("hey i am python".split())
 print(' '.join('hey' 'i' 'am' 'python'))
 
 print("hey i am python".find('py'))
+
+s1 = "bed morning"
+s2 = s1.replace("bed","good")
+print(s2)
