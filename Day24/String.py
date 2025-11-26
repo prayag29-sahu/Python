@@ -22,3 +22,8 @@ s2="python"
 print(s1+s2)
 print(s1*3)
 
+count=0
+for i in "hello python":
+    if i=='o':
+        count+=1;
+print(count , "letter found")
