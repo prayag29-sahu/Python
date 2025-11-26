@@ -36,3 +36,5 @@ print("HELLO".lower())
 
 print("hey i am python".split())
 print(' '.join('hey' 'i' 'am' 'python'))
+
+print("hey i am python".find('py'))
