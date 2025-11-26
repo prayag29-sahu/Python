@@ -29,3 +29,4 @@ for i in "hello python":
 print(count , "letter found")
 
 print('l' in 'hello world')
+print('o ' in 'hello world') 
