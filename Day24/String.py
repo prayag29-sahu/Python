@@ -15,3 +15,10 @@ print(mystring[2:5])
 
 del mystring
 # print(mystring)
+
+
+s1="hello"
+s2="python"
+print(s1+s2)
+print(s1*3)
+
