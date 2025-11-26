@@ -33,3 +33,6 @@ print('o ' in 'hello world')
 
 print("hello".upper())
 print("HELLO".lower())
+
+print("hey i am python".split())
+print(' '.join('hey' 'i' 'am' 'python'))
