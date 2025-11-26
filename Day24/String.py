@@ -42,3 +42,11 @@ print("hey i am python".find('py'))
 s1 = "bed morning"
 s2 = s1.replace("bed","good")
 print(s2)
+
+palind1 = "acba"
+p2 = reversed(palind1)
+
+if list(palind1) == list(p2):
+    print("Palindrom")
+else:
+    print("Not palindrom")
