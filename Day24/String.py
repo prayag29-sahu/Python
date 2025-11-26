@@ -27,3 +27,5 @@ for i in "hello python":
     if i=='o':
         count+=1;
 print(count , "letter found")
+
+print('l' in 'hello world')
