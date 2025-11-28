@@ -50,3 +50,9 @@ if list(palind1) == list(p2):
     print("Palindrom")
 else:
     print("Not palindrom")
+
+word = "python program for sort words in alphabetic order".split()
+word.sort()
+
+for w in word:
+    print(w)
