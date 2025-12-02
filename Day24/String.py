@@ -65,3 +65,4 @@ str2="hello world"
 print(str2.startswith("hello"))
 print(str2.endswith("world"))
 print(str2.count('o'))
+print(str2.index('o'))
