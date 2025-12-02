@@ -63,3 +63,4 @@ print(str1.strip())
 
 str2="hello world"
 print(str2.startswith("hello"))
+print(str2.endswith("world"))
