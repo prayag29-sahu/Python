@@ -57,3 +57,6 @@ word.sort()
 for w in word:
     print(w)
 print(" ".join(word))
+
+str1="  hello world  "
+print(str1.strip())
