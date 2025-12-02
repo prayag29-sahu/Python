@@ -56,4 +56,3 @@ word.sort()
 
 for w in word:
     print(w)
-
