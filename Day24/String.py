@@ -78,7 +78,7 @@ print(str2.isalpha())
 print(str2.isalnum())
 
 print(str1.isalnum())
-
+print(str1.isalpha())
 
 
 
