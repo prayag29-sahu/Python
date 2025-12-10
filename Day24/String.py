@@ -82,5 +82,6 @@ print(str1.isalpha())
 print(str1.isupper())
 print(str1.islower())
 print(str1.zfill(30))
+print(str1.center(50, '*'))
 
 
