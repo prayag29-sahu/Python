@@ -85,5 +85,6 @@ print(str1.zfill(30))
 print(str1.center(50, '*'))
 print(str1.swapcase())
 print(str1.title())
+print(str1.capitalize())
 
 
