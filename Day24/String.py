@@ -31,6 +31,7 @@ print(count , "letter found")
 print('l' in 'hello world')
 print('o ' in 'hello world') 
 
+
 print("hello".upper())
 print("HELLO".lower())
 
@@ -75,3 +76,5 @@ print(str2.islower())
 print(str2.isupper())
 print(str2.isalpha())
 print(str2.isalnum())
+
+
