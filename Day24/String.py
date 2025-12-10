@@ -77,4 +77,8 @@ print(str2.isupper())
 print(str2.isalpha())
 print(str2.isalnum())
 
+print(str1.isalnum())
+
+
+
 
