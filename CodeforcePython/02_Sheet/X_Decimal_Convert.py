@@ -14,6 +14,8 @@ for i in range(0, t):
     for j in check:
         value = int(2**(count-1))
         count = count-1
-
         sum = sum+value
     print(sum)
+
+
+
