@@ -9,3 +9,4 @@ for x in range(0, k+1):
         increase = (r2-r1)+1
         count = count+increase
 print(count)
+
