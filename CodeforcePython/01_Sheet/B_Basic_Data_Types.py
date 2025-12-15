@@ -5,7 +5,6 @@ b=int(b)
 c=str(c)
 d=float(d)
 e=float(e)
-
 print(a)
 print(b)
 print(c)
