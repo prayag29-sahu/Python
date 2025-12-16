@@ -12,3 +12,5 @@ elif(a%k!=0 and b%k == 0):
     print("Momo")
 else:
     print("No One")
+
+    
