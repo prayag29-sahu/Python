@@ -1,5 +1,4 @@
 a,b,k = input().split()
-
 a = int(a)
 b = int(b)
 k = int(k)
