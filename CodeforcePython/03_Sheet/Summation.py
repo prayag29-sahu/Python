@@ -8,3 +8,5 @@ for i in arr:
     sum = sum+(i)
 
 print(abs(sum))
+
+
