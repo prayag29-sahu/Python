@@ -5,7 +5,6 @@ for _ in range(t):
     if s > max_sum:
         print(-1)
         continue
-
     result = []
     curr = s
 
