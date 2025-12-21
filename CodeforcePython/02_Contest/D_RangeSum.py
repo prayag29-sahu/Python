@@ -10,3 +10,7 @@ for _ in range(t):
     print(ans)
 
 
+
+
+
+
