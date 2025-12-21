@@ -1,8 +1,6 @@
 t = int(input())
-
 for _ in range(t):
     n, s = map(int, input().split())
-
     max_sum = n * (n + 1) // 2
     if s > max_sum:
         print(-1)
