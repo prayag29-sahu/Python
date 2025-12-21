@@ -5,8 +5,7 @@ for _ in range(t):
 
     if l > r:
         l, r = r, l   # swap
-
     ans = (r*(r+1))//2 - (l*(l-1))//2
     print(ans)
 
-    
+
