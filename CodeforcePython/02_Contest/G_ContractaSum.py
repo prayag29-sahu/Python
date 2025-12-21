@@ -15,6 +15,4 @@ for _ in range(t):
             curr -= num
         if curr == 0:
             break
-
-
     print(*result)
