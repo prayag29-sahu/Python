@@ -18,4 +18,5 @@ for _ in range(t):
         if curr == 0:
             break
 
+
     print(*result)
