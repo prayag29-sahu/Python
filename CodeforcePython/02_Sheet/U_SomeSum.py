@@ -12,5 +12,3 @@ for i in range(1, n+1):
     if (r1 <= value <= r2):
         sum = sum+i
 print(sum)
-
-
