@@ -2,7 +2,6 @@ n, a, b = map(int, input().split())
 r1 = min(a, b)
 r2 = max(a, b)
 sum = 0
-
 for i in range(1, n+1):
     temp = i
     value = 0
