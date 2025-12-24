@@ -1,4 +1,5 @@
 k, s = map(int, input().split())
+
 count = 0
 for x in range(0, k + 1):
     remaining = s - x
@@ -8,4 +9,5 @@ for x in range(0, k + 1):
     high = min(k, remaining)
     if low <= high:
         count += (high - low + 1)
+
 print(count)
