@@ -8,10 +8,7 @@ for x in range(0, k + 1):
 
     low = max(0, remaining - k)
     high = min(k, remaining)
-
     if low <= high:
         count += (high - low + 1)
 
 print(count)
-
-
